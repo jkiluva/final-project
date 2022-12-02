@@ -3,3 +3,5 @@
 - Melissa Jones
 - Tamaya Livingston
 - Megan Amos
+- Jeanne Mutua
+
