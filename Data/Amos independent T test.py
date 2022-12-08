@@ -119,3 +119,4 @@ NYRtrim.head()
 
 stats.ttest_ind(NYRtrim["CategoryR"], NYRtrim["GenderR"])
 
+#pvalue is 0.0 so it appears to be a significant difference
