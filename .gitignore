@@ -84,3 +84,4 @@ lint/outputs/
 lint/tmp/
 # lint/reports/
 Notebooks/.ipynb_checkpoints/Melissa Jones-checkpoint.ipynb
+Data/independent T test.py
